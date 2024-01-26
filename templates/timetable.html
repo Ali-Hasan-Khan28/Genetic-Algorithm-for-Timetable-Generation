@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Timetable</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="bg-gradient-to-b from-indigo-500 from-10% via-sky-500 via-30% to-emerald-500 to-90% ...">
+    <div class="flex justify-center flex-col items-center my-32">
+      <h1 class="font-bold text-white text-6xl p-4 mb-10 border-2 border-white">Timetable</h1>
+
+   
+    {%for table in data%}
+    <h1 class="font-bold text-white text-left text-xl">{{lec_halls[loop.index]}}</h1>
+    <table class="bg-white rounded-lg border-separate border-spacing-2 my-5 p-4 opacity-70 hover:opacity-100 transition-all duration-300 hover:-translate-y-1">
+      <thead>
+        <tr >
+          {% for header in headers %}
+          <th>{{ header }}</th>
+          {% endfor %}
+        </tr>
+      </thead>
+      <tbody>
+        {% for row in table[0:] %}
+        <tr class="hover:bg-slate-100 transition-color duration-300">
+          {% for cell in row %}
+          <td class="p-2 border-2 transition-transform duration-300 hover:scale-110 hover:cursor-pointer">{{ cell }}</td>
+          {% endfor %}
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    {%endfor%}
+  </div>
+
+  </body>
+</html>
