@@ -1,0 +1,116 @@
+1,Course ID,Course Name,Credit Hour,Semester of Student,Section,Teacher Name
+2,CE413,Computer Networks,3,8,A,Mr. Salman Saeed
+3,CE413,Computer Networks,3,8,B,Mr. Salman Saeed
+4,ES221,Data Structures and Algorithms,3,4,I,Dr. Muhammad Zain Siddiqi
+5,CS232,Database Management Systems,3,4,A,Mr. Ahsan Shah
+6,CS232,Database Management Systems,3,4,B,Mr. Ahsan Shah
+7,CS232,Database Management Systems,3,4,C,Ms. Abinta Mehmood
+8,CS232,Database Management Systems,3,4,D,Ms. Abinta Mehmood
+9,CS232,Database Management Systems,3,4,E,M. Qasim Riaz
+10,CS424,Compiler Construction,3,8,C,Mr. Usama Arshad
+11,CE231,Electronics I,3,4,B,Dr. Adnan Shah
+12,CS251,Artificial Intelligence,3,4,E,Ms. Nazia Shehzadi
+13,AI361,Natural Language Processing,3,6,A,Dr. Musadaq Mansoor
+14,CS351,Artificial Intelligence,3,6,C,Dr. Khurram Khan
+15,CS464,Data and Network Security,3,8,A,Dr. Rashid M Jillani
+16,CS464,Data and Network Security,3,8,C,Dr. Qamar Abbas
+17,CE222,Computer Organization and Assembly Language,3,4,A,Dr. Taj Muhammad Khan
+18,CE222,Computer Organization and Assembly Language,3,4,D,Dr. Habib Ahmed
+19,CE222,Computer Organization and Assembly Language,3,4,E,Dr. Ghulam Abbas
+20,CS211,Operating Systems,3,4,C,Dr. Sarah Iqbal
+21,CS211,Operating Systems,3,4,B,Mr. Badre Munir
+22,DS351,Data Visualization,2,6,E,Dr. Farhan Khan
+23,CS354,Deep Learning,3,6,B,Dr. Shahab Uddin Ansari
+24,DS221,Inferential Statistics and Applied Probability,3,4,A,Dr. Babar Zaman FES
+25,DS221,Inferential Statistics and Applied Probability,3,4,E,Dr. Babar Zaman FES
+26,AI319,Computer Vision,3,6,A,Engr. Talha Ashfaq
+27,CE221,Logic Design,3,4,C,Mr. Ahsan Shah
+28,CE221,Logic Design,3,4,B,Dr. Muhammad Hanif
+29,CS378,Design and Analysis of Algorithms,3,6,E,Dr. Masroor Hussain
+30,CE313,Computer Communication and Networking,3,6,C,Dr. Qamar Abbas
+31,CY201,Cyber Security Principles and Concepts,3,4,E,Ms. Beenish Urooj
+32,CS112,Object Oriented Programming and Design,3,2,A,M. Qasim Riaz
+33,CS112,Object Oriented Programming and Design,3,2,B,Ms. Nazia Shehzadi
+34,CS112,Object Oriented Programming and Design,3,2,C,Dr. Salman Ahmed
+35,CS112,Object Oriented Programming and Design,3,2,D,Mr. Abdullah Bin Zarshaid
+36,CS112,Object Oriented Programming and Design,3,2,E,Mr. Said Nabi
+37,CS112,Object Oriented Programming and Design,3,2,FI,Mr. Abdullah Bin Zarshaid
+38,CS112,Object Oriented Programming and Design,3,2,G,M. Qasim Riaz
+39,CS112,Object Oriented Programming and Design,3,2,H,Ms. Beenish Urooj
+40,CS112,Object Oriented Programming and Design,3,2,J,Mr. Salman Saeed
+41,CS112,Object Oriented Programming and Design,3,2,K,Prof. Dr. Zahid Halim
+42,CS112,Object Oriented Programming and Design,3,2,L,Ms. Beenish Urooj
+43,CS112,Object Oriented Programming and Design,3,2,M,Mr. Said Nabi
+44,CS465,ASIC Design,3,8,B,Dr. Waqar Ahmad
+45,AI202,Trends and Techniques in AI,2,4,A,Dr. Raja Hashim Ali
+46,CS224,Formal Languages and Automata Theory,3,4,C,Mr. Sajid Ali
+47,CY211,Information Security,3,4,D,Mr. Abdullah Bin Zarshaid
+48,DS211,Theory of Data Science,3,4,E,Ms. Abinta Mehmood
+49,CE362,Signal Processing,3,6,B,Dr. Shahab Uddin Ansari
+50,CS312,System Programming,3,6,C,Dr. Sarah Iqbal
+51,CS312,System Programming,3,6,B,Mr. Badre Munir
+52,CS325,Software Engineering,3,6,A,Ms. Laraib Afzal
+53,CS325,Software Engineering,3,6,C,Ms. Laraib Afzal
+54,CS439,Data Science,3,8,A,Dr. Farhan Khan
+55,CS439,Data Science,3,8,B,Dr. Farhan Khan
+56,CS439,Data Science,3,8,C,Dr. Farhan Khan
+57,CS439,Data Science,3,8,D,Dr. Farhan Khan
+58,CS439,Data Science,3,8,E,Dr. Farhan Khan
+59,CS439,Data Science,3,8,F,Dr. Farhan Khan
+60,CS101,Computing and AI,2,2,A,Dr. Ali Imran Sandhu
+61,CS101,Computing and AI,2,2,B,Dr. Ali Imran Sandhu
+62,CS101,Computing and AI,2,2,C,Dr. Ali Imran Sandhu
+63,CS101,Computing and AI,2,2,D,Dr. Ali Imran Sandhu
+64,CS101,Computing and AI,2,2,E,Dr. Ali Imran Sandhu
+65,CS101,Computing and AI,2,2,F,Dr. Ali Imran Sandhu
+66,CS101,Computing and AI,2,2,G,Dr. Ali Imran Sandhu
+67,CS101,Computing and AI,2,2,H,Dr. Ali Imran Sandhu
+68,CS101,Computing and AI,2,2,I,Dr. Ali Imran Sandhu
+69,CS101,Computing and AI,2,2,J,Dr. Ali Imran Sandhu
+70,CS101,Computing and AI,2,2,K,Dr. Ali Imran Sandhu
+71,CS101,Computing and AI,2,2,L,Dr. Ali Imran Sandhu
+72,CS101,Computing and AI,2,2,M,Dr. Ali Imran Sandhu
+73,CS101,Computing and AI,2,2,N,Dr. Ali Imran Sandhu
+74,AI417,Full Stack Web Development,3,8,A,Dr. Musadaq Mansoor
+75,AI417,Full Stack Web Development,3,8,B,Dr. Musadaq Mansoor
+76,AI417,Full Stack Web Development,3,8,C,Dr. Musadaq Mansoor
+77,CS375,Cyber Security,3,6,A,Mr. Sajid Ali
+78,CS375,Cyber Security,3,6,B,Mr. Sajid Ali
+79,CS375,Cyber Security,3,6,C,Mr. Sajid Ali
+80,CS375,Cyber Security,3,6,D,Mr. Sajid Ali
+81,AI420,Medical Image Processing,3,8,A,Mr. Talha Ashfaq
+82,AI420,Medical Image Processing,3,8,B,Mr. Talha Ashfaq
+83,AI420,Medical Image Processing,3,8,C,Mr. Talha Ashfaq
+84,AI375,Cyber Security,3,6,A,Dr. Salman Ahmed
+85,AI375,Cyber Security,3,6,B,Dr. Salman Ahmed
+86,AI375,Cyber Security,3,6,C,Dr. Salman Ahmed
+87,AI375,Cyber Security,3,6,D,Dr. Salman Ahmed
+88,CS452,Artificial Neural Networks,3,8,B,Mr. Badre Munir
+89,CS452,Artificial Neural Networks,3,8,C,Mr. Badre Munir
+90,AI302,Structure and Interpretation of Computer Programs,3,6,A,Dr. Taj Muhammad Khan
+91,AI302,Structure and Interpretation of Computer Programs,3,6,B,Dr. Taj Muhammad Khan
+92,AI302,Structure and Interpretation of Computer Programs,3,6,C,Dr. Taj Muhammad Khan
+93,AI302,Structure and Interpretation of Computer Programs,3,6,D,Dr. Taj Muhammad Khan
+94,CS354,Deep Learning,3,6,C,Dr. Ali Imran Sandhu
+95,CS354,Deep Learning,3,6,D,Dr. Ali Imran Sandhu
+96,CE339,Introduction to Data Science,3,6,A,Dr. Adnan Shah
+97,CE339,Introduction to Data Science,3,6,B,Dr. Adnan Shah
+98,CE339,Introduction to Data Science,3,6,C,Dr. Adnan Shah
+99,CE339,Introduction to Data Science,3,6,D,Dr. Adnan Shah
+100,CS455,Natural Language Processing Using Deep Learning,3,8,B,Dr. Khurram Khan
+101,CS455,Natural Language Processing Using Deep Learning,3,8,C,Dr. Khurram Khan
+102,CE419,Applied Image & Signal Processing,3,8,A,Dr. Muhammad Hanif
+103,CE419,Applied Image & Signal Processing,3,8,B,Dr. Muhammad Hanif
+104,CE419,Applied Image & Signal Processing,3,8,C,Dr. Muhammad Hanif
+105,CS352,Introduction to Soft Computing,3,6,A,Dr. Ahmar Rashid
+106,CS352,Introduction to Soft Computing,3,6,B,Dr. Ahmar Rashid
+107,CS352,Introduction to Soft Computing,3,6,C,Dr. Ahmar Rashid
+108,CS352,Introduction to Soft Computing,3,6,D,Dr. Ahmar Rashid
+109,CS364,Internet of Things,3,6,A,Ms. Nazia Shehzadi
+110,CS364,Internet of Things,3,6,B,Ms. Nazia Shehzadi
+111,CS364,Internet of Things,3,6,C,Ms. Nazia Shehzadi
+112,CS364,Internet of Things,3,6,D,Ms. Nazia Shehzadi
+113,CS373,Digital Image Processing,3,6,A,Dr. Fahad Bin Muslim
+114,CS373,Digital Image Processing,3,6,B,Dr. Fahad Bin Muslim
+115,CS373,Digital Image Processing,3,6,C,Dr. Fahad Bin Muslim
+116,CS373,Digital Image Processing,3,6,D,Dr. Fahad Bin Muslim
