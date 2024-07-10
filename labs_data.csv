@@ -1,46 +1,46 @@
 Course ID,Course Name,Credit Hour,Semester of Student,Section,Type
-CS101L,Computing and AI Lab,1,2,A,Software
-CS101L,Computing and AI Lab,1,2,B,Software
-CS101L,Computing and AI Lab,1,2,C,Software
-CS101L,Computing and AI Lab,1,2,D,Software
-CS101L,Computing and AI Lab,1,2,E,Software
-CS101L,Computing and AI Lab,1,2,F,Software
-CS101L,Computing and AI Lab,1,2,G,Software
-CS101L,Computing and AI Lab,1,2,H,Software
-CS101L,Computing and AI Lab,1,2,I,Software
-CS101L,Computing and AI Lab,1,2,J,Software
-CS101L,Computing and AI Lab,1,2,K,Software
-CS101L,Computing and AI Lab,1,2,L,Software
-CS101L,Computing and AI Lab,1,2,M,Software
-CS101L,Computing and AI Lab,1,2,N,Software
-CS232L,Database Management Systems Lab,1,4,A,SE LAB
-CS232L,Database Management Systems Lab,1,4,B,SE LAB
-CS232L,Database Management Systems Lab,1,4,C,SE LAB
-CS232L,Database Management Systems Lab,1,4,D,SE LAB
-CS232L,Database Management Systems Lab,1,4,E,SE LAB
-CE231L,Electronics I Lab,1,4,B,SA LAB
-CS251L,Artificial Intelligence Lab,1,4,E,AI LAB
-CS351L,Artificial Intelligence Lab,1,6,C,AI LAB
-CE222L,Computer Organization and Assembly Language Lab,1,4,A,Hardware
-CE222L,Computer Organization and Assembly Language Lab,1,4,D,Hardware
-CE222L,Computer Organization and Assembly Language Lab,1,4,E,Hardware
-DS351L,Data Visualization Lab,1,6,D,Software
-AI319L,Computer Vision Lab,1,6,A,AI LAB
-CE221L,Digital Logic Design Lab,3,3,C,DLD LAB
-CE221L,Digital Logic Design Lab,3,3,B,DLD LAB
-CS112L,Object Oriented Programming and Design Lab,1,2,A,Software
-CS112L,Object Oriented Programming and Design Lab,1,2,B,Software
-CS112L,Object Oriented Programming and Design Lab,1,2,C,Software
-CS112L,Object Oriented Programming and Design Lab,1,2,D,Software
-CS112L,Object Oriented Programming and Design Lab,1,2,E,Software
-CS112L,Object Oriented Programming and Design Lab,1,2,F,Software
-CS112L,Object Oriented Programming and Design Lab,1,2,G,Software
-CS112L,Object Oriented Programming and Design Lab,1,2,H,Software
-CS112L,Object Oriented Programming and Design Lab,1,2,I,Software
-CS112L,Object Oriented Programming and Design Lab,1,2,J,Software
-CS112L,Object Oriented Programming and Design Lab,1,2,K,Software
-CS112L,Object Oriented Programming and Design Lab,1,2,L,Software
-CS112L,Object Oriented Programming and Design Lab,1,2,M,Software
-AI202L,Trends and Techniques in AI Lab,1,4,A,AI LAB
-CS312L,System Programming Lab,1,6,C,Software
-CS312L,System Programming Lab,1,6,B,Software
+CS101L,Computing and AI Lab,1,2,A,pc lab
+CS101L,Computing and AI Lab,1,2,B,pc lab
+CS101L,Computing and AI Lab,1,2,C,pc lab
+CS101L,Computing and AI Lab,1,2,D,pc lab
+CS101L,Computing and AI Lab,1,2,E,pc lab
+CS101L,Computing and AI Lab,1,2,F,pc lab
+CS101L,Computing and AI Lab,1,2,G,pc lab
+CS101L,Computing and AI Lab,1,2,H,pc lab
+CS101L,Computing and AI Lab,1,2,I,pc lab
+CS101L,Computing and AI Lab,1,2,J,psd lab
+CS101L,Computing and AI Lab,1,2,K,psd lab
+CS101L,Computing and AI Lab,1,2,L,psd lab
+CS101L,Computing and AI Lab,1,2,M,psd lab
+CS101L,Computing and AI Lab,1,2,N,psd lab
+CS232L,Database Management Systems Lab,1,4,A,mse lab
+CS232L,Database Management Systems Lab,1,4,B,mse lab
+CS232L,Database Management Systems Lab,1,4,C,mse lab
+CS232L,Database Management Systems Lab,1,4,D,mse lab
+CS232L,Database Management Systems Lab,1,4,E,mse lab
+CE231L,Electronics I Lab,1,4,B,hardware
+CS251L,Artificial Intelligence Lab,1,4,E,ai lab
+CS351L,Artificial Intelligence Lab,1,6,C,ai lab
+CE222L,Computer Organization and Assembly Language Lab,1,4,A,hardware
+CE222L,Computer Organization and Assembly Language Lab,1,4,D,hardware
+CE222L,Computer Organization and Assembly Language Lab,1,4,E,hardware
+DS351L,Data Visualization Lab,1,6,D,psd lab
+AI319L,Computer Vision Lab,1,6,A,ai lab
+CE221L,Digital Logic Design Lab,3,3,C,dld lab
+CE221L,Digital Logic Design Lab,3,3,B,dld lab
+CS112L,Object Oriented Programming and Design Lab,1,2,A,psd lab
+CS112L,Object Oriented Programming and Design Lab,1,2,B,psd lab
+CS112L,Object Oriented Programming and Design Lab,1,2,C,psd lab
+CS112L,Object Oriented Programming and Design Lab,1,2,D,psd lab
+CS112L,Object Oriented Programming and Design Lab,1,2,E,os lab
+CS112L,Object Oriented Programming and Design Lab,1,2,F,os lab
+CS112L,Object Oriented Programming and Design Lab,1,2,G,os lab
+CS112L,Object Oriented Programming and Design Lab,1,2,H,os lab
+CS112L,Object Oriented Programming and Design Lab,1,2,I,os lab
+CS112L,Object Oriented Programming and Design Lab,1,2,J,os lab
+CS112L,Object Oriented Programming and Design Lab,1,2,K,os lab
+CS112L,Object Oriented Programming and Design Lab,1,2,L,os lab
+CS112L,Object Oriented Programming and Design Lab,1,2,M,os lab
+AI202L,Trends and Techniques in AI Lab,1,4,A,ai lab
+CS312L,System Programming Lab,1,6,C,pc lab
+CS312L,System Programming Lab,1,6,B,os lab
