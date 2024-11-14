@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chatbot</title>
+</head>
+<body>
+    <h2>Chatbot Interface</h2>
+    <form method="post" action="/chatbot">
+        <input type="text" name="prompt" placeholder="Enter prompt" required>
+        <button type="submit">Submit Prompt</button>
+    </form>
+    <table>
+        <thead>
+            <tr>
+                <th>Time Slots</th>
+                <th>Unique ID</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in result %}
+            <tr>
+                <td>{{ row['time_slots'] }}</td>
+                <td>{{ row['unique_id'] }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <a href="{{ url_for('generate_timetable') }}"><button>Generate Timetable</button></a>
+</body>
+</html>
