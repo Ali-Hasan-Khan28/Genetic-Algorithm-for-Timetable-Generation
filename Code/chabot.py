@@ -12,7 +12,7 @@ import os
 
 def query_openai(prompt):
     client = OpenAI(
-  api_key="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",  # this is also the default, it can be omitted
+  api_key="",  # this is also the default, it can be omitted
 )
 
     context = """
