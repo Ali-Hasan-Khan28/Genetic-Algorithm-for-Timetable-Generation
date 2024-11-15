@@ -36,7 +36,7 @@ def chatbot():
     return render_template('chatbot.html', result=[])
 
 
-@app.route('/generate_timetable', methods=['GET'])
+@app.route('/generate_timetable', methods=['GET','POST'])
 def generate_timetable():
     unique_ids = result_chatbot["unique_id"].tolist()
     timetable = genetic_algorithm(course_metadata, result_chatbot, unique_ids)
