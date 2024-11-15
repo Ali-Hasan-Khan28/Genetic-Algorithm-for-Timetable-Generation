@@ -66,4 +66,4 @@ def query_openai(prompt):
     reply2 = response2.choices[0].message.content
     return reply, reply2
 
-results_chatbot = pd.DataFrame(columns=['time_slots',"unique_id"])
+# results_chatbot = pd.DataFrame(columns=['time_slots',"unique_id"])

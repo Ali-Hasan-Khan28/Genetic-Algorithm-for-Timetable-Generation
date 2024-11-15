@@ -235,14 +235,14 @@
 
         <!-- Form for entering prompt inside the card -->
         <div class="input-group">
-            <form method="post" action="/chatbot" class="d-flex w-100" id="chat-form">
+            <form method="POST" action="/chatbot" class="d-flex w-100" id="chat-form">
                 <input type="text" name="prompt" class="form-control" placeholder="Enter prompt" required>
                 <button type="submit" class="btn btn-success">Submit</button>
             </form>
         </div>
     </div>
 
-    <script>
+    <!-- <script>
         // Handle form submission and display messages dynamically
         document.getElementById('chat-form').addEventListener('submit', function (e) {
             e.preventDefault();
@@ -271,7 +271,7 @@
             // Scroll to the bottom (the chat container automatically scrolls to the latest message)
             chatContainer.scrollTop = chatContainer.scrollHeight;
         }
-    </script>
+    </script> -->
 
 </body>
 

@@ -132,7 +132,6 @@ def run_genetic_algorithm(course_metadata,results_chatbot,unique_ids_in_resultsc
 
     ctr = 0
     for day in timetable.index:
-        print("Processing day:", day)
         temp_lh_list = []
         for lh in timetable.columns:
             generation = 1
@@ -176,14 +175,12 @@ def run_genetic_algorithm(course_metadata,results_chatbot,unique_ids_in_resultsc
                     new_generation.append(Individual(Individual.create_gnome()))  # Random mutation
                 
                 population = new_generation
-                print(day,lh, generation)
                 generation += 1
-        print("jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj",day)
         day_ctr += 1
     return timetable
 
 def genetic_algorithm(course_metadata,result_chabot,unique_ids_in_resultschatbot):
-    columns = [f'lh{i}' for i in range(2)]
+    columns = [f'LH{i}' for i in range(2)]
     data = [[None for _ in range(2)] for _ in range(5)]
     timetable = pd.DataFrame(data, columns=columns)
     # GA parameters
@@ -194,4 +191,3 @@ def genetic_algorithm(course_metadata,result_chabot,unique_ids_in_resultschatbot
     day_ctr = 0
     timetable = run_genetic_algorithm(course_metadata,result_chabot,unique_ids_in_resultschatbot,timetable,POPULATION_SIZE,GENES,MAX_GENERATIONS,ANNEALING_THRESHOLD,day_ctr,[])
     return timetable
-
