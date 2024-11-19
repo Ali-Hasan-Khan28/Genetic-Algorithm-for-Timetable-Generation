@@ -12,3 +12,5 @@ openaikey.txt
 .env
 /timetable-app/*
 Code/*
+/timetableapp-og/*
+/__pycache__/*
