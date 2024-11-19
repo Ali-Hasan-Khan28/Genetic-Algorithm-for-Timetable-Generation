@@ -9,3 +9,4 @@ Code/envtt/
 openaikey.txt
 /timetableapp/__pycache__/*
 /timetable-app/*
+.env
