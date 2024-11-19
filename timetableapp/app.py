@@ -133,7 +133,7 @@ def generate_timetable_data():
 def generate_timetable():
     global timetable_data
     timetable_data = generate_timetable_data()  # Ensure timetable is generated only once
-    lecture_halls = [f'LH{i}' for i in range(0, 2)]
+    lecture_halls = [f'LH{i}' for i in range(0, 15)]
     selected_hall = None  # Default to no selection
     
     if request.method == 'POST':

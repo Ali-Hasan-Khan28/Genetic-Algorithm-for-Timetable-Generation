@@ -5,14 +5,17 @@ import pandas as pd
 from openai import OpenAI
 import re
 import os
+from dotenv import load_dotenv
 
 
 
 # df = course_metadata
 
 def query_openai(prompt):
+    load_dotenv()
+    openai_api_key = os.getenv("OPENAI_API_KEY")
     client = OpenAI(
-  api_key="",  # this is also the default, it can be omitted
+  api_key=openai_api_key,  # this is also the default, it can be omitted
 )
 
     context = """

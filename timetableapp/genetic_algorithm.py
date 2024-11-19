@@ -180,8 +180,8 @@ def run_genetic_algorithm(course_metadata,results_chatbot,unique_ids_in_resultsc
     return timetable
 
 def genetic_algorithm(course_metadata,result_chabot,unique_ids_in_resultschatbot):
-    columns = [f'LH{i}' for i in range(2)]
-    data = [[None for _ in range(2)] for _ in range(5)]
+    columns = [f'LH{i}' for i in range(15)]
+    data = [[None for _ in range(15)] for _ in range(5)]
     timetable = pd.DataFrame(data, columns=columns)
     # GA parameters
     POPULATION_SIZE = 100
